@@ -1,0 +1,7 @@
+cutty;https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg;gray/white;3
+moumou;https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/640px-Cat_November_2010-1a.jpg;gray/brown;6
+coeur de feu;https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/RedCat_8727.jpg/1200px-RedCat_8727.jpg;orange;8
+sirius;https://cdn.britannica.com/25/172925-050-DC7E2298/black-cat-back.jpg;black;5
+snow;https://cdn.jwplayer.com/v2/media/OJGSRhSM/poster.jpg;white;2
+baby;https://www.lismore.nsw.gov.au/files/assets/public/v/1/1.-households/3.-pets-amp-animals/images/kitten.jpg;brown/gray;1
+grumpy;https://i.natgeofe.com/n/9135ca87-0115-4a22-8caf-d1bdef97a814/75552.jpg;gray;10

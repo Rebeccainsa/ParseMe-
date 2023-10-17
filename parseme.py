@@ -6,7 +6,8 @@ test_line = "cutty;https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e
 
 
 def parse_line(line):
-    # TODO
+
+    line=line.split(";")
 
     print("Nom:", line[0])
     print("Color:", line[2])
@@ -15,18 +16,18 @@ def parse_line(line):
 
 parse_line(test_line)
 
+fhand=open('cats.txt')
+print(fhand)
 
-""" TODO
+# def parse_file(): 
+#     fhand = open('cats.txt')
 
-fhand = open('cats.txt')
-list = split("\n", fhand)
+#     list = fhand.split("\n")
+#     for i in len(list):
+#        parse_line(list)
+# parse_file()
 
-def parse_file(): 
-    for i in len(list):
-       print ("Nom:", list[i,0])
-parse_file()
 
-"""
 
 
 ###############################################
